@@ -7,7 +7,7 @@ As a new employee at PyBer, we were tasked with analyzing ride share data from J
 
 ### Data Frame
 
-![dataframe](dataframe.png)
+![dataframe](https://github.com/lydiadingess/PyBer_Analysis/blob/main/resources/dataframe.png?raw=true)
 
 Once the two data sets provided were merged, we were able to analyze the difference in data between city types. Urban type cities resulted in the largest count of total rides, while rural cities have the lowest count of total rides. This information is not surprising, since urban areas are normally more heavily populated. 
 
@@ -17,7 +17,7 @@ Suburban and Rural areas produced similar results. The number of rides were much
 
 ### Fare Summary
 
-![faresummary](PyBer_fare_summary.png)
+![faresummary](https://github.com/lydiadingess/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png?raw=true)
 
 From the Data Frame above, we were able to take the data and produce a line chart grouped by weeks to show the total fares by city types. 
 
